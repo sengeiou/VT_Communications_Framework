@@ -15,10 +15,10 @@ The Original Code and all software distributed under the License are distributed
 #import <Foundation/Foundation.h>
 
 //! Project version number for Herald.
-FOUNDATION_EXPORT double HeraldVersionNumber;
+FOUNDATION_EXPORT double VTCommunicationsVersionNumber;
 
 //! Project version string for Herald.
-FOUNDATION_EXPORT const unsigned char HeraldVersionString[];
+FOUNDATION_EXPORT const unsigned char VTCommunicationsVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <Herald/PublicHeader.h>
+
 
